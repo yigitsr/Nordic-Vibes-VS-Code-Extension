@@ -1,0 +1,32 @@
+{
+  "name": "nordic-vibes",
+  "displayName": "Nordic Vibes",
+  "description": "A VS Code Dark Theme inspired by Northern Lights",
+  "version": "0.0.1",
+  "publisher": "yigits",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "icon": "img/logo.png",
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "nordic vibes",
+    "dark",
+    "theme",
+    "black",
+    "dark theme",
+    "black theme",
+    "green"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Nordic Vibes",
+        "uiTheme": "vs-dark",
+        "path": "./NordicVibes.json"
+      }
+    ]
+  }
+}
