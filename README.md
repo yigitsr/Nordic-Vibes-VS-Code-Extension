@@ -1,0 +1,1 @@
+# Nordic-Vibes-VS-Code-Extension
