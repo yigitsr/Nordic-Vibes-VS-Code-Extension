@@ -2,7 +2,7 @@
   "name": "nordic-vibes",
   "displayName": "Nordic Vibes",
   "description": "A VS Code Dark Theme inspired by Northern Lights",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "yigits",
   "engines": {
     "vscode": "^1.85.0"
@@ -21,9 +21,9 @@
     "green"
   ],
   "repository": {
-		"type": "git",
-		"url": "https://github.com/yigitsr/Nordic-Vibes-VS-Code-Extension"
-	},
+    "type": "git",
+    "url": "https://github.com/yigitsr/Nordic-Vibes-VS-Code-Extension"
+  },
   "contributes": {
     "themes": [
       {

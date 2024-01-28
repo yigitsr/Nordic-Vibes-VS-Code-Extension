@@ -4,29 +4,24 @@
 	"colors": {
 		"activityBar.background": "#101010",
 		"activityBarBadge.background": "#0e68b2",
-		
 		"button.background": "#7cdebe",
 		"button.foreground": "#1b1b1b",
-
 		"editor.background": "#0a0a0b",
 		"editor.foreground": "#7cdebe",
-
 		"foreground": "#7cdebe",
 		"focusBorder": "#7cdebe",
-
+		"icon.foreground": "#4A9644",
 		"sideBar.background": "#101010",
-        "sideBar.foreground": "#7cdebe",
-        "sideBar.dropBackground": "#beacac",
-        "sideBarTitle.foreground": "#7cdebe",
-        "sideBarSectionHeader.background": "#71e6bf",
-        "sideBarSectionHeader.foreground": "#0a0a0b",
+		"sideBar.foreground": "#7cdebe",
+		"sideBar.dropBackground": "#beacac",
+		"sideBarTitle.foreground": "#7cdebe",
+		"sideBarSectionHeader.background": "#71e6bf",
+		"sideBarSectionHeader.foreground": "#0a0a0b",
 		"sideBarSectionHeader.border": "#04583c",
-
 		"tab.activeBackground": "#030303",
 		"tab.activeForeground": "#7cdebe",
-		"tab.activeBorder":"#5cdeb2",
-		"tab.inactiveBackground":"#2d2d2d"
-		
+		"tab.activeBorder": "#5cdeb2",
+		"tab.inactiveBackground": "#2d2d2d"
 	},
 	"tokenColors": [
 		{
@@ -77,7 +72,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#5e5465"
+				"foreground": "#AA99EB"
 			}
 		},
 		{
