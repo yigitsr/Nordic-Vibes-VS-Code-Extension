@@ -6,3 +6,5 @@
 
 
 Extension link: https://marketplace.visualstudio.com/items?itemName=yigits.nordic-vibes&ssr=false#overview
+
+VS Code Preview: https://vscode.dev/editor/theme/yigits.nordic-vibes/Nordic%20Vibes
